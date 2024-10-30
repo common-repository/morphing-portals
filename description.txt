@@ -1,0 +1,6 @@
+This plugin uses the Morphing Portals service, which optimizes the conversion of your website by using machine learning to decide which content to deliver to a specific user, in real time.
+
+With this plugin you can add placeholders to a page or post for dynamic content and define several contents for each placeholder.
+When a webpage is loaded, the content to be shown is decided by machine learning algorithms in real-time, adapted to who is browsing your website. 
+
+This is particularly useful for marketeers that want to optimize the conversion rate within their website. The plugin includes a dashboard to visualize the Click Through Rate (CTR) results on dynamic content that measures the effectiveness of the machine learning algorithms.
